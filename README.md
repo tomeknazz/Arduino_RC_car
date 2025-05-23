@@ -10,6 +10,7 @@ Movement: 4x DC motors 6V
 - Colision detection
 - Parking sensors
 - Automatic following mode
+- Internet-independent remote control using ESP32 with joystick
 
 https://github.com/user-attachments/assets/c515f788-22c0-44ce-b7a6-11c945a5ab5e
 
